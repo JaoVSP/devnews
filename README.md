@@ -20,6 +20,6 @@
 
 # Installing:
 ```bash
-$ git clone git@github.com:Jaozim420/devnews.git
+$ git clone git@github.com:JaoVSP/devnews.git
 ```
 
